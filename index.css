@@ -44,8 +44,8 @@
 }
 
 #dog-info img {
-  max-width: 75vw;
-  max-height: 25vw;
+  max-width: 640px;
+  max-height: 480px;
 }
 
 body {
